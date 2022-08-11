@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [(https://github.com/chukadiy/stats-preview-card-component)]
-- Live Site URL: [(https://chukadiy.github.io/stats-preview-card-component/)]
+- Solution URL: [(https://github.com/chukadiy/Testimonials-grid-section)]
+- Live Site URL: [(https://chukadiy.github.io/Testimonials-grid-section/)]
 
 ## My process
 
