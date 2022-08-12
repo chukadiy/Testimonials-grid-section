@@ -60,7 +60,7 @@ My goal was to build out the project to the designs inside the `/design` folder.
 
 The designs are in JPG static format. Using JPGs means that I needed to use my best judgment for styles such as; `font-size`, `padding` and `margin`. However, I was given a style guide in the `style-guide.md` file containing the information I needed such as color palette and fonts.
 
-### Building the project
+### Building the Project
 
 Below is a process, I used in building this project:
 
