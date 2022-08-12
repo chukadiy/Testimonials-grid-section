@@ -5,13 +5,13 @@
 ## Table of Content
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The Challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My Process](#my-process)
   - [Built with](#built-with)
-  - [Where to find everything](#where-to-find-everything)
-  - [Building the project](#building-the-project)
+  - [Where to Find Everything](#where-to-find-everything)
+  - [Building the Project](#building-the-project)
 - [Author](#author)
 
 
