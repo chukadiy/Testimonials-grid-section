@@ -2,7 +2,7 @@
 
 ![Design preview for the Testimonials grid section coding challenge](./design/desktop-preview.jpg)
 
-## Table of contents
+## Table of Content
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
